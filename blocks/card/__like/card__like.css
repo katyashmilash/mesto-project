@@ -5,7 +5,6 @@
   box-shadow: none;
   border: none;
   background-color: transparent;
-  transition: 0.5 ease;
 }
 
 .card__like:hover {
