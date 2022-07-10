@@ -1,0 +1,16 @@
+.popup__edit {
+  font-size: 24px;
+  font-weight: 900;
+  line-height: 29px;
+  color: #000000;
+  padding: 0 0 54px 0;
+  margin: 0;
+  max-width: 330px;
+}
+
+@media screen and (max-width: 720px) {
+  .popup__edit {
+    font-size: 18px;
+    line-height: 22px;
+  }
+}

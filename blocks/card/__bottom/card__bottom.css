@@ -1,0 +1,8 @@
+.card__bottom {
+  display: flex;
+  width: 246px;
+  padding: 25px 0 31px 21px;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0;
+}
