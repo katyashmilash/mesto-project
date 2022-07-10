@@ -1,17 +1,17 @@
-.card__list {
+.cards__list {
   list-style: none;
   display: grid;
   grid-template-columns: repeat(auto-fit, 282px);
   grid-template-rows: auto;
   max-width: 880px;
-  justify-content: space-between;
-  row-gap: 20px;
+  justify-content: center;
+  gap: 20px 17px;
   padding: 0;
   margin: 0;
 }
 
 @media screen and (max-width: 720px) {
-  .card__list {
+  .cards__list {
     justify-content: center;
   }
 }

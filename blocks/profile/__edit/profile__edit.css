@@ -1,12 +1,14 @@
 .profile__edit {
-  background-image: url("../../../images/pen.svg");
-  border: solid 1px #ffffff;
-  width: 24px;
-  height: 24px;
   background-color: transparent;
+  background-image: url("../../../images/pen.svg");
   background-position: center;
   background-repeat: no-repeat;
-  margin-left: 18px;
+  border: solid 1px #ffffff;
+  cursor: pointer;
+  height: 24px;
+  width: 24px;
+  margin-left: 18px;  
+  transition: 0.5s ease;
 }
 
 .profile__edit:hover {
